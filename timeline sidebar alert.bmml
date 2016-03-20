@@ -1,0 +1,157 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="611" measuredH="653" mockupW="282" mockupH="573">
+  <controls>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::iPhone" x="329" y="80" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Title" x="380" y="236" w="-1" h="-1" measuredW="181" measuredH="23" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>When%20do%20you%20leave%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::DateChooser" x="380" y="265" w="181" h="-1" measuredW="90" measuredH="25" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Title" x="363" y="305" w="-1" h="-1" measuredW="214" measuredH="23" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>When%20do%20you%20get%20back%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::DateChooser" x="380" y="329" w="181" h="-1" measuredW="90" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="__group__" x="357" y="183" w="228" h="38" measuredW="228" measuredH="38" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>App%20Bar%20w/%20Back</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="228" h="38" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="33">
+          <controlProperties>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="10" w="228" h="28" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="33">
+          <controlProperties>
+            <align>center</align>
+            <bold>true</bold>
+            <size>20</size>
+            <text>Plan%20a%20New%20Trip</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="8" y="7" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="33">
+          <controlProperties>
+            <icon>ListIcon%7Csmall</icon>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Title" x="363" y="369" w="-1" h="-1" measuredW="213" measuredH="23" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Main%20purpose%20of%20travel%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Image" x="380" y="392" w="48" h="48" measuredW="128" measuredH="128" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <filter>true</filter>
+        <src>./1458450809_briefcase-old-style.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Image" x="446" y="392" w="48" h="48" measuredW="128" measuredH="128" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <filter>true</filter>
+        <src>./1458450962_ic_local_hotel_48px.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Image" x="513" y="392" w="48" h="48" measuredW="128" measuredH="128" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <filter>true</filter>
+        <src>./1458451053_lifestyle.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Image" x="380" y="446" w="48" h="48" measuredW="128" measuredH="128" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <filter>true</filter>
+        <src>./1458451162_group2.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Image" x="446" y="440" w="48" h="48" measuredW="128" measuredH="128" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <filter>true</filter>
+        <src>./1458451260_museum.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Image" x="519" y="452" w="36" h="36" measuredW="128" measuredH="128" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <filter>true</filter>
+        <src>./1458451309_FAQ_2.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Button" x="363" y="509" w="207" h="49" measuredW="106" measuredH="32" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3480693</color>
+        <size>24</size>
+        <text>Lets%20go</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::ModalScreen" x="357" y="162" w="229" h="409" measuredW="320" measuredH="240" zOrder="14" locked="false" isInGroup="-1"/>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Canvas" x="354" y="158" w="180" h="415" measuredW="100" measuredH="70" zOrder="15" locked="false" isInGroup="-1"/>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::HelpButton" x="363" y="174" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="18" locked="false" isInGroup="-1"/>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::RoundButton" x="363" y="178" w="47" h="48" measuredW="32" measuredH="32" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <icon>ContactIcon%7Csmall</icon>
+        <shape>circle</shape>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Label" x="416" y="183" w="-1" h="-1" measuredW="72" measuredH="24" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>true</bold>
+        <color>15658734</color>
+        <size>16</size>
+        <text>Jane%20Doe</text>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Label" x="416" y="204" w="-1" h="-1" measuredW="86" measuredH="21" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>16777215</color>
+        <text>Location%2C%20Here</text>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Icon" x="509" y="194" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>timeline%26bm%3Btimeline.bmml%26bm%3Btimeline.bmml%26bm%3Btimeline.bmml</href>
+        <icon>LeftFillTriangleIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22180%2C114%2C196%2C130%22%20href%3D%22timeline.bmml%22%20alt%3D%22timeline%22%20id%3D%2252%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Image" x="356" y="161" w="177" h="92" measuredW="362" measuredH="139" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>./download.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Accordion" x="357" y="253" w="173" h="317" measuredW="150" measuredH="267" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>-1</selectedIndex>
+        <text>Plan%20a%20New%20Trip%0ACurrent%20Trip%0A-%20Destination%0A-%20Flights%0A-%20Hotels%0A-%20Itinerary%0ATrip%20Archive%0AWanderlust%0AAccount%20Settings%0APreferences%0AGetting%20Started</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::ModalScreen" x="356" y="162" w="229" h="409" measuredW="320" measuredH="240" zOrder="23" locked="false" isInGroup="-1"/>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Alert" x="370" y="267" w="-1" h="-1" measuredW="200" measuredH="149" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>timeline%20sidebar%26bm%3Btimeline%20sidebar.bmml%26bm%3Btimeline%20sidebar.bmml%26bm%3Btimeline%20sidebar.bmml%2Ctimeline%26bm%3Btimeline.bmml%26bm%3Btimeline.bmml%26bm%3Btimeline.bmml</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%2251%2C286%2C136%2C326%22%20href%3D%22timeline%2520sidebar.bmml%22%20alt%3D%22timeline%20sidebar%22%20id%3D%2257%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%22146%2C286%2C231%2C326%22%20href%3D%22timeline.bmml%22%20alt%3D%22timeline%22%20id%3D%2257%22/%3E%0A</map>
+        <text>Delete%20Current%20Trip%3F%0ACreating%20a%20new%20trip%20will%20delete%20current%20trip%20data.%20Are%20you%20sure%3F%0ANo%2C%20Yes</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

@@ -1,0 +1,297 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="840" measuredH="656" mockupW="746" mockupH="624">
+  <controls>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::iPhone" x="329" y="80" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::RoundButton" x="357" y="183" w="229" h="38" measuredW="32" measuredH="32" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <shape>rectangle</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Paragraph" x="357" y="193" w="229" h="28" measuredW="200" measuredH="80" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <size>20</size>
+        <text>Destination</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Icon" x="365" y="190" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <href>timeline%20sidebar%26bm%3Btimeline%20sidebar.bmml%26bm%3Btimeline%20sidebar.bmml%26bm%3Btimeline%20sidebar.bmml</href>
+        <icon>ListIcon%7Csmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22271%2C158%2C295%2C182%22%20href%3D%22timeline%2520sidebar.bmml%22%20alt%3D%22timeline%20sidebar%22%20id%3D%2246%22/%3E</map>
+      </controlProperties>
+    </control>
+    <control controlID="48" controlTypeID="__group__" x="94" y="168" w="180" h="415" measuredW="180" measuredH="415" zOrder="4" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="__group__" x="0" y="0" w="180" h="415" measuredW="180" measuredH="415" zOrder="0" locked="false" isInGroup="48">
+          <groupChildrenDescriptors>
+            <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="26" y="234" w="48" h="48" measuredW="128" measuredH="128" zOrder="0" locked="false" isInGroup="0">
+              <controlProperties>
+                <filter>true</filter>
+                <src>./1458450809_briefcase-old-style.png</src>
+              </controlProperties>
+            </control>
+            <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="92" y="234" w="48" h="48" measuredW="128" measuredH="128" zOrder="1" locked="false" isInGroup="0">
+              <controlProperties>
+                <filter>true</filter>
+                <src>./1458450962_ic_local_hotel_48px.png</src>
+              </controlProperties>
+            </control>
+            <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="26" y="288" w="48" h="48" measuredW="128" measuredH="128" zOrder="2" locked="false" isInGroup="0">
+              <controlProperties>
+                <filter>true</filter>
+                <src>./1458451162_group2.png</src>
+              </controlProperties>
+            </control>
+            <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="92" y="282" w="48" h="48" measuredW="128" measuredH="128" zOrder="3" locked="false" isInGroup="0">
+              <controlProperties>
+                <filter>true</filter>
+                <src>./1458451260_museum.png</src>
+              </controlProperties>
+            </control>
+            <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="0" y="0" w="180" h="415" measuredW="100" measuredH="70" zOrder="4" locked="false" isInGroup="0"/>
+            <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="2" y="3" w="177" h="92" measuredW="362" measuredH="139" zOrder="5" locked="false" isInGroup="0">
+              <controlProperties>
+                <borderStyle>square</borderStyle>
+                <src>./download.jpg</src>
+              </controlProperties>
+            </control>
+            <control controlID="6" controlTypeID="com.balsamiq.mockups::RoundButton" x="9" y="20" w="47" h="48" measuredW="32" measuredH="32" zOrder="6" locked="false" isInGroup="0">
+              <controlProperties>
+                <icon>ContactIcon%7Csmall</icon>
+                <shape>circle</shape>
+              </controlProperties>
+            </control>
+            <control controlID="7" controlTypeID="com.balsamiq.mockups::HelpButton" x="9" y="16" w="-1" h="-1" measuredW="18" measuredH="18" zOrder="7" locked="false" isInGroup="0"/>
+            <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="62" y="25" w="-1" h="-1" measuredW="72" measuredH="24" zOrder="8" locked="false" isInGroup="0">
+              <controlProperties>
+                <bold>true</bold>
+                <color>15658734</color>
+                <size>16</size>
+                <text>Jane%20Doe</text>
+              </controlProperties>
+            </control>
+            <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="62" y="46" w="-1" h="-1" measuredW="86" measuredH="21" zOrder="9" locked="false" isInGroup="0">
+              <controlProperties>
+                <color>16777215</color>
+                <text>Location%2C%20Here</text>
+              </controlProperties>
+            </control>
+            <control controlID="10" controlTypeID="com.balsamiq.mockups::Icon" x="155" y="36" w="-1" h="-1" measuredW="16" measuredH="16" zOrder="10" locked="false" isInGroup="0">
+              <controlProperties>
+                <href>timeline%26bm%3Btimeline.bmml%26bm%3Btimeline.bmml%26bm%3Btimeline.bmml</href>
+                <icon>LeftFillTriangleIcon%7Cxsmall</icon>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22155%2C172%2C171%2C188%22%20href%3D%22timeline.bmml%22%20alt%3D%22timeline%22%20id%3D%2210%22/%3E</map>
+              </controlProperties>
+            </control>
+            <control controlID="11" controlTypeID="com.balsamiq.mockups::Accordion" x="3" y="95" w="173" h="317" measuredW="150" measuredH="375" zOrder="11" locked="false" isInGroup="0">
+              <controlProperties>
+                <hrefs>timeline%20sidebar%20alert%26bm%3Btimeline%20sidebar%20alert.bmml%26bm%3Btimeline%20sidebar%20alert.bmml%26bm%3Btimeline%20sidebar%20alert.bmml%2Ctimeline%20sidebar%26bm%3Btimeline%20sidebar.bmml%26bm%3Btimeline%20sidebar.bmml%26bm%3Btimeline%20sidebar.bmml%2C%2C%2C%2C%2C%2C%2C%2C%2C</hrefs>
+                <map>%3Carea%20shape%3D%22rect%22%20coords%3D%223%2C231%2C176%2C261%22%20href%3D%22timeline%2520sidebar%2520alert.bmml%22%20alt%3D%22timeline%20sidebar%20alert%22%20id%3D%2211%22/%3E%0A%3Carea%20shape%3D%22rect%22%20coords%3D%223%2C258%2C176%2C288%22%20href%3D%22timeline%2520sidebar.bmml%22%20alt%3D%22timeline%20sidebar%22%20id%3D%2211%22/%3E%0A</map>
+                <selectedIndex>2</selectedIndex>
+                <text>Plan%20a%20New%20Trip%0ACurrent%20Trip%0A-%20Destination%0A-%20Flights%0A-%20Hotels%0A-%20Itinerary%0ATrip%20Archive%0AWanderlust%0AAccount%20Settings%0APreferences%0AGetting%20Started</text>
+              </controlProperties>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Canvas" x="365" y="229" w="205" h="279" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::RoundButton" x="513" y="451" w="38" h="36" measuredW="32" measuredH="32" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <href>flights%26bm%3Bflights.bmml%26bm%3Bflights.bmml%26bm%3Bflights.bmml</href>
+        <icon>CheckMarkIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22419%2C419%2C457%2C455%22%20href%3D%22flights.bmml%22%20alt%3D%22flights%22%20id%3D%2250%22/%3E</map>
+        <shape>circle</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::RoundButton" x="389" y="451" w="35" h="36" measuredW="32" measuredH="32" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <icon>XIcon%7Cxsmall</icon>
+        <shape>circle</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="52" controlTypeID="com.balsamiq.mockups::Image" x="365" y="229" w="205" h="91" measuredW="278" measuredH="181" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>./download%2520%281%29.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::RoundButton" x="452" y="451" w="38" h="36" measuredW="32" measuredH="32" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>545684</color>
+        <icon>PlusIcon%7Cxsmall</icon>
+        <shape>circle</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Label" x="408" y="248" w="-1" h="-1" measuredW="126" measuredH="28" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <color>16777215</color>
+        <size>20</size>
+        <text>Place/Region</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Label" x="438" y="276" w="-1" h="-1" measuredW="66" measuredH="28" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <color>16777215</color>
+        <size>20</size>
+        <text>X%20Days</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Paragraph" x="371" y="326" w="199" h="167" measuredW="200" measuredH="80" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*Trip%20Highlights%3A*%0ACluster%20of%20activities%20here%0AActivity%20at%20this%20place%0AVisitng%20this%20place%0AMore%20abstract%20stuff%20here%3F%0A%20%0AEstimated%20Cast%3A%20%24XXX-%24XXXX</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Canvas" x="635" y="162" w="205" h="494" measuredW="100" measuredH="70" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Image" x="635" y="162" w="205" h="91" measuredW="278" measuredH="181" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>./download%2520%281%29.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Label" x="678" y="181" w="-1" h="-1" measuredW="126" measuredH="28" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <color>16777215</color>
+        <size>20</size>
+        <text>Place/Region</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Label" x="708" y="209" w="-1" h="-1" measuredW="66" measuredH="28" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>center</align>
+        <bold>true</bold>
+        <color>16777215</color>
+        <size>20</size>
+        <text>X%20Days</text>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::Paragraph" x="642" y="259" w="195" h="34" measuredW="200" measuredH="80" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*Recommended%20Flight%3A*%0ASome%20Airlines%20%20%20%20%20%20Price%3A%20%24XXX</text>
+      </controlProperties>
+    </control>
+    <control controlID="62" controlTypeID="com.balsamiq.mockups::Paragraph" x="642" y="293" w="92" h="34" measuredW="200" measuredH="80" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>12</size>
+        <text>Arr%20in%20Place%3A%0AJan%2001%2016%2001%3A20</text>
+      </controlProperties>
+    </control>
+    <control controlID="63" controlTypeID="com.balsamiq.mockups::Paragraph" x="734" y="293" w="98" h="34" measuredW="200" measuredH="80" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <align>right</align>
+        <size>12</size>
+        <text>Dep%20from%20Place%3A%0AJan%2005%2016%2001%3A20</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::Paragraph" x="642" y="334" w="195" h="47" measuredW="200" measuredH="80" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>*Recommended%20Hotel%3A*%0ASome%20Hotel%20%20%20Price%3A%20%24XXX/night%0Alink%3A%20http%3A/hotelinfo.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::HRule" x="635" y="321" w="202" h="-1" measuredW="100" measuredH="10" zOrder="21" locked="false" isInGroup="-1"/>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::HRule" x="635" y="381" w="202" h="-1" measuredW="100" measuredH="10" zOrder="22" locked="false" isInGroup="-1"/>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::Accordion" x="635" y="381" w="202" h="227" measuredW="163" measuredH="294" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <hrefs>%2C%2C%2C%2C%2Cdestination2%26bm%3Bdestination2.bmml%26bm%3Bdestination2.bmml%26bm%3Bdestination2.bmml%2C%2C%2C%2C</hrefs>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22541%2C492%2C743%2C522%22%20href%3D%22destination2.bmml%22%20alt%3D%22destination2%22%20id%3D%2267%22/%3E%0A</map>
+        <text>Day%201%0A-%20Arrive%20at%20airport%0A-%20Check%20in%20at%20hotel%0A-%20Visit%20this%20place%0A-%20Do%20this%20thing%20here%0ADay%202%0A-%20Do%20this%20thing%20here%0A-%20Do%20this%20other%20thing%20here%20%0ADay%203%0ADay%204</text>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::RoundButton" x="782" y="613" w="38" h="36" measuredW="32" measuredH="32" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>40463</color>
+        <href>flights%26bm%3Bflights.bmml%26bm%3Bflights.bmml%26bm%3Bflights.bmml</href>
+        <icon>CheckMarkIcon%7Cxsmall</icon>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22688%2C581%2C726%2C617%22%20href%3D%22flights.bmml%22%20alt%3D%22flights%22%20id%3D%2268%22/%3E</map>
+        <shape>circle</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::RoundButton" x="658" y="613" w="35" h="36" measuredW="32" measuredH="32" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13369344</color>
+        <icon>XIcon%7Cxsmall</icon>
+        <shape>circle</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="70" controlTypeID="com.balsamiq.mockups::RoundButton" x="720" y="613" w="38" h="36" measuredW="32" measuredH="32" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>545684</color>
+        <icon>MinusIcon%7Cxsmall</icon>
+        <shape>circle</shape>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="71" controlTypeID="com.balsamiq.mockups::CallOut" x="635" y="32" w="202" h="121" measuredW="560" measuredH="37" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%0AExpanded%20itinerary%3A%0AIn%20order%20to%20reduce%20computation%2C%20would%20it%20be%20possible%20to%20lazy%20load%20or%20cache%20this%20information%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::Arrow" x="472" y="355" w="163" h="96" measuredW="150" measuredH="100" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <leftArrow>false</leftArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::Arrow" x="268" y="193" w="97" h="22" measuredW="150" measuredH="100" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text>slide%20in/out</text>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::CallOut" x="94" y="78" w="223" h="75" measuredW="523" measuredH="43" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>if%20there%20are%20no%20trips%20currently%20made%2C%20alert%20user%20and%20redirect%20to%20new%20trip%20creation%20page%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::CallOut" x="452" y="564" w="180" h="92" measuredW="463" measuredH="39" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>clicking%20on%20the%20%27X%27%20removes%20the%20card%20and%20brings%20up%20another%20trip%20suggestion</text>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::Arrow" x="570" y="466" w="164" h="148" measuredW="150" measuredH="100" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>top</direction>
+        <leftArrow>true</leftArrow>
+        <rightArrow>false</rightArrow>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::SearchBox" x="365" y="528" w="205" h="-1" measuredW="185" measuredH="25" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Search%20for%20a%20specific%20place</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

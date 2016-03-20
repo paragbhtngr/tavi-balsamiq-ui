@@ -1,0 +1,122 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="917" measuredH="653" mockupW="894" mockupH="573">
+  <controls>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::iPhone" x="329" y="80" w="-1" h="-1" measuredW="282" measuredH="573" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <model>IPhone5</model>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Title" x="380" y="236" w="-1" h="-1" measuredW="181" measuredH="23" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>When%20do%20you%20leave%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::DateChooser" x="380" y="265" w="181" h="-1" measuredW="90" measuredH="25" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Title" x="363" y="305" w="-1" h="-1" measuredW="214" measuredH="23" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>When%20do%20you%20get%20back%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::DateChooser" x="380" y="329" w="181" h="-1" measuredW="90" measuredH="25" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <state>up</state>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="__group__" x="357" y="183" w="229" h="38" measuredW="229" measuredH="38" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>App%20Bar%20w/%20Back</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::RoundButton" x="0" y="0" w="229" h="38" measuredW="32" measuredH="32" zOrder="0" locked="false" isInGroup="33">
+          <controlProperties>
+            <shape>rectangle</shape>
+            <text/>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Paragraph" x="0" y="10" w="229" h="28" measuredW="200" measuredH="80" zOrder="1" locked="false" isInGroup="33">
+          <controlProperties>
+            <align>center</align>
+            <bold>true</bold>
+            <size>20</size>
+            <text>Plan%20a%20New%20Trip</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Icon" x="8" y="7" w="-1" h="-1" measuredW="24" measuredH="24" zOrder="2" locked="false" isInGroup="33">
+          <controlProperties>
+            <href>timeline%20sidebar%26bm%3Btimeline%20sidebar.bmml%26bm%3Btimeline%20sidebar.bmml%26bm%3Btimeline%20sidebar.bmml</href>
+            <icon>ListIcon%7Csmall</icon>
+            <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22342%2C110%2C366%2C134%22%20href%3D%22timeline%2520sidebar.bmml%22%20alt%3D%22timeline%20sidebar%22%20id%3D%223%22/%3E</map>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Title" x="363" y="369" w="-1" h="-1" measuredW="213" measuredH="23" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>20</size>
+        <text>Main%20purpose%20of%20travel%3F</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Image" x="380" y="392" w="48" h="48" measuredW="128" measuredH="128" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <filter>true</filter>
+        <src>./1458450809_briefcase-old-style.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Image" x="446" y="392" w="48" h="48" measuredW="128" measuredH="128" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <filter>true</filter>
+        <src>./1458450962_ic_local_hotel_48px.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Image" x="513" y="392" w="48" h="48" measuredW="128" measuredH="128" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <filter>true</filter>
+        <src>./1458451053_lifestyle.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Image" x="380" y="441" w="48" h="48" measuredW="128" measuredH="128" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <filter>true</filter>
+        <src>./1458451162_group2.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Image" x="451" y="446" w="39" h="39" measuredW="128" measuredH="128" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <filter>true</filter>
+        <src>./1458451260_museum.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Image" x="519" y="452" w="42" h="42" measuredW="128" measuredH="128" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>none</borderStyle>
+        <filter>true</filter>
+        <src>./1458455321_134.png</src>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Button" x="363" y="509" w="207" h="49" measuredW="106" measuredH="32" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>3480693</color>
+        <href>destination%26bm%3Bdestination.bmml%26bm%3Bdestination.bmml%26bm%3Bdestination.bmml</href>
+        <map>%3Carea%20shape%3D%22rect%22%20coords%3D%22340%2C429%2C547%2C478%22%20href%3D%22destination.bmml%22%20alt%3D%22destination%22%20id%3D%2241%22/%3E</map>
+        <size>24</size>
+        <text>Lets%20go</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::StickyNote" x="626" y="91" w="291" h="562" measuredW="109" measuredH="123" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%20%0A%20%0ABusiness%20Trip%20-%20Generally%20going%20to%20be%20busy%20and%20needs%20to%20be%20time%20flexible%2C%20because%20work%20takes%20precedence.%20Short%2C%20relaxing%20and%20generally%20calming%20things%20to%20do%20which%20are%20not%20time%20sensitive.%0A%20%0AR%26R%20-%20For%20trips%20like%20these%2C%20a%20lot%20of%20time%20will%20be%20spent%20in%20the%20hotel%20and%20nearby%20locations.%20Can%20afford%20to%20spend%20a%20bit%20more%20on%20these%20sort%20of%20trips%20on%20hotels%2C%20while%20making%20sure%20that%20accomodation%20is%20located%20close%20to%20activities%20with%20low%20exertion%0A%20%0AParty%20-%20Keep%20activities%20low%20during%20the%20day%20and%20high%20during%20the%20night.%20This%20will%20really%20focus%20on%20time-sensitive%20events%20like%20club%20events%2C%20concerts%2C%20etc%0A%20%0ASocial%20-%20For%20social%20trips%2C%20the%20focus%20is%20going%20to%20be%20mostly%20on%20people.%20Hangout%20spots%20such%20as%20cafes%20or%20date-like%20spots%20will%20be%20higher%20in%20priority%0A%20%0ACultural%20-%20Generally%20tourist%20spots%2C%20museums%2C%20galleries%2C%20etc.%20Local%20hangout%20spots%20with%20rich%20history%0A%20%0ANature%20-%20lot%20of%20physical%20exertion%20and%20trekking.%20Not%20my%20area%20of%20expertise%0A%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::StickyNote" x="23" y="91" w="291" h="562" measuredW="109" measuredH="123" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <bold>false</bold>
+        <text>1%20additional%20step%20before%20the%20app%20starts%20suggesting%20locations%0AThis%20information%20is%20essential%20for%20planning%20itinerary%0A%20%0ABased%20on%20length%20and%20time%20of%20travel%2C%20we%20can%20determine%20%0A-%20whether%20it%20is%20feasible%20to%20cover%20multiple%20cities%20on%20one%20trip%0A-%20what%20are%20special%20activities%20that%20will%20be%20going%20on%20during%20that%20period%0A-%20weight%20events%20and%20activities%20%28Museum%20of%20Valuable%20Solids%20problem%29%0A%20%0AIn%20this%20same%20step%20we%20bias%20the%20factors%20we%20are%20looking%20for%2C%20based%20on%20broad%20categories.%20This%20biasing%20is%20important%20because%20the%20same%20person%20may%20want%20different%20things%20from%20trips%20depending%20on%20their%20mood.%0A%20%0AHaven%27t%20decided%20yet%20if%20it%20will%20be%20possible%20to%20pick%20multiple%20%28thoughts%3F%29</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
